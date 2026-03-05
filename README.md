@@ -46,7 +46,7 @@ Binnen CEDA is een instroomprognose studenten voor MBO instellingen ontwikkeld. 
 
 De CAMBO-data en de uitkomsten van de prognose worden gevisualiseerd in deze interactieve web applicatie. 
 
-DDe visualisaties zijn gebaseerd op de resultaten uit de volgende CEDA-packages: 
+De visualisaties zijn gebaseerd op de resultaten uit de volgende CEDA-packages: 
   - **CAMBO data (https://github.com/cedanl/instroomprognose-mbo)** en 
   - **Studentprognose model van de Radboud Universiteit (https://github.com/cedanl/studentprognose)**
 

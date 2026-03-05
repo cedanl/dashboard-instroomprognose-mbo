@@ -198,6 +198,8 @@ Voor verdere ontwikkeling van het project wordt aanbevolen om:
 
 ---
 
+# KORTE VERSIE
+
 # 📊 CAMBO Instroomanalyse en Prognose
 
 Deze repository bevat een eerste prototype voor het analyseren van **CAMBO-data** en het genereren van **instroomprognoses**, inclusief een **Streamlit-visualisatie** van de resultaten.
